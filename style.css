@@ -16,7 +16,6 @@ position: relative;
     background-color: rgba(0, 0, 0, 0.56);
 }
 
-
 .StartAll .back ul li{
     list-style: none;
     display: inline-block;
@@ -220,6 +219,55 @@ width: 78%;
 font-family: sans-serif;
     }
 
+    /*  */
+    .start-BREAK-BREAD{
+        background-color: #42363A;
+        height: 370px;
+        margin-top: -42px;
+    }
+    .start-BREAK-BREAD .BREAK-BREAD .h1{
+
+text-align: center;
+
+color: white;
+
+position: relative;
+
+top: 83px;
+
+font-size: 58px;
+
+font-family: sans-serif;
+}
+    .start-BREAK-BREAD .BREAK-BREAD .p{
+
+color: white;
+
+position: relative;
+
+top: 85px;
+
+text-align: center;
+
+}
+    .start-BREAK-BREAD .BREAK-BREAD .p1{
+
+position: relative;
+
+top: 111px;
+
+color: white;
+
+text-align: center;
+
+font-size: 36px;
+
+font-family: cursive;
+
+}
+    /*  */
+
 .clearfix{
     clear: both;
 }
+

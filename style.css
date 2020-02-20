@@ -1,0 +1,225 @@
+.StartAll {
+    background: url('1.png') no-repeat top center;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+min-height: 1000px;
+position: relative;
+}
+.StartAll .back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.56);
+}
+
+
+.StartAll .back ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    margin-right: 50px;
+}
+.StartAll .back ul{
+    position: relative;
+    left: 700px;
+    width: 51%;
+}
+.StartAll .img{
+    font-size: 17px;
+    position: relative;
+    top: 27px;
+    left: 60px;
+    font-family: cursive;
+    width: 10%;
+}
+
+.StartAll .centerT {
+    border: 5px solid white;
+    font-size: 60px;
+    width: 14%;
+    position: relative;
+    top: 25%;
+    left: 47%;
+    font-family: sans-serif;
+}
+.StartAll .centerT2{
+    font-size: 38px;
+    width: 10%;
+    position: absolute;
+    left: 48%;
+    top: 51%;
+    border-bottom: 2px solid white;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+/* start our food */
+.start-our-food{
+    background-color: #42363A;
+}
+
+.start-our-food .our-food{
+    font-size: 40px;
+    color: white;
+    margin-top: -40px;
+}
+.start-our-food .our-food .images .images1{
+    
+float: left;
+    
+position: relative;
+    
+left: 16%;
+}
+.start-our-food .our-food .images .images2{
+    
+position: relative;
+    
+left: 17%;
+}
+.start-our-food .our-food .images .images3{
+    position: relative;
+    left: 17%;
+}
+
+.start-our-food .our-food .images .images4{
+    position: relative;
+    left: -4%;
+    top: -171px;
+}
+.start-our-food .our-food .images .images5{
+    position: relative;
+    top: -437px;
+    left: 291px;
+}
+.start-our-food .our-food .images .images6{
+    position: relative;
+    left: 390px;
+    top: -439px;
+}
+.start-our-food .our-food p{
+
+position: relative;
+
+left: 16%;
+
+top: 26px;
+
+width: 25%;
+
+font-family: cursive;
+}
+/* end  our food*/
+
+.start-our-food{
+    height: 840px;
+}
+
+.start-our-food .our-food .image4C{
+    position: relative;
+    top: -784px;
+    left: 330px;
+    font-size: 30px;
+}
+.start-our-food .our-food .image5C{
+
+position: relative;
+
+top: -946px;
+
+LEFT: 1057px;
+
+font-size: 30px;
+}
+.start-our-food .our-food .image6C{
+
+position: RELATIVE;
+
+TOP: -632px;
+
+left: 692px;
+
+font-size: 30px;
+}
+.start-our-food .our-food .image4CA{
+
+top: -801px;
+
+left: 699px;
+
+FONT-SIZE: 10px;
+}
+.start-our-food .our-food .image5CA{
+
+position: relative;
+
+top: -957px;
+
+LEFT: 71%;
+
+font-size: 10px;
+}
+.start-our-food .our-food .image6CA{
+
+top: -641px;
+
+left: 336px;
+
+font-size: 10px;
+}
+
+.start-our-VALUES {
+    background: url('8.png') no-repeat top center;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+min-height: 1000px;
+position: relative;
+}
+.start-our-VALUES .our-VALUES{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.56);
+}
+.start-our-VALUES .our-VALUES .h1{
+    font-size: 150px;
+    text-align: center;
+    font-family: monospace;
+}
+.start-our-VALUES .our-VALUES .h2{
+    
+font-size: 50px;
+    
+position: relative;
+    
+left: 22%;
+    
+width: 78%;
+    
+font-family: sans-serif;
+}
+.start-our-VALUES .our-VALUES .p{
+    
+font-size: 18px;
+    
+position: relative;
+    
+left: 335px;
+    
+width: 78%;
+    
+font-family: sans-serif;
+    }
+
+.clearfix{
+    clear: both;
+}
